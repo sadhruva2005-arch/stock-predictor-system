@@ -86,7 +86,7 @@ pip install torch stable-baselines3 cvxpy gymnasium numpy
 
 ```bash
 python main.py
-# All major libraries imported successfully 🚀
+# All major libraries imported successfully 
 ```
 
 ### Train the agent
